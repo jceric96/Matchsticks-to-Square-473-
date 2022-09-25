@@ -19,8 +19,6 @@ Input: matchsticks = [3,3,3,3,4]
 Output: false
 Explanation: You cannot find a way to form a square with all the matchsticks.
 
-Example 3:
-
 Constraints:
 
 1 <= matchsticks.length <= 15
